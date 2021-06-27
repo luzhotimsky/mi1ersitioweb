@@ -1,0 +1,39 @@
+body {
+    background-image: url(fondo.png);
+}
+
+.saludop3{
+    font-family: 'Playfair Display', serif;
+    font-weight: 700;
+    color: #000;
+    font-size: 2.5rem;
+    text-align: center;
+}
+.sigohablando {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 100;
+    font-size: 1.5rem;
+    line-height: 0.5;
+}
+.CTA{
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 100;
+    font-size: 1.5rem;
+    line-height: 0.5;
+}
+#link{
+    text-decoration: none;
+    font-weight:bolder;
+}
+#perro{
+    width: 550px;
+    display: block;
+    margin: 0px auto;
+}
+#copyright{
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 0;
+    font-size: 1rem;
+    line-height: 0.5;
+    text-align: center;
+}

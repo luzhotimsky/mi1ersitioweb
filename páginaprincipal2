@@ -1,0 +1,23 @@
+<html>
+    <head>
+        <title>Incio | Hotimsky Luz</title>
+        <link href="páginaprincial2.css" rel="stylesheet"/>
+        <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;500;600;700;800;900&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400&display=swap" rel="stylesheet">
+    </head>
+    <body>
+        <h1 class="saludop3">Te doy la bienvenida a mi primer sitio</h1>
+        <h4 class="sigohablando">Si seguís explorándolo, vas a conocer un poco sobre mi y las cosas que hice para mejorar mi perfil profesional.</h4>
+        <p class="CTA">Sin más que decir (en esta página (de nuevo)) te invito a que hagas
+            <a id="link"
+        href="file:///C:/Users/Luz/Desktop/entrega%20sitio/pag2.html"
+        target="_blank"> click aquí
+        </a> para conocer mi Curriculum Vitae.
+        </p>
+        <img id="perro" src="perrooficinista.jpg"
+        alt="Un gatito haciendo magia" />
+        <p id="copyright">This site was made by Luz Hotimsky</p>
+
+        
+    </body>
+</html>
